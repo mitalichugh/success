@@ -1,1 +1,1 @@
-apply plugin 'c'
+apply plugin: 'c'
